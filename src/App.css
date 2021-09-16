@@ -1,0 +1,9 @@
+.time{
+    width: 33%;
+    margin: auto;
+    margin-top: 200px;
+    background-color: green;
+    border: solid;
+    padding-left: 100px;
+    border-radius: 20px;
+}
